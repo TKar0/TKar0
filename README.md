@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31545377/README.md)
+[README.md](https://github.com/user-attachments/files/31545575/README.md)
 <!--
   ═══════════════════════════════════════════════════════════
   GitHub Profile README — TKar0
@@ -98,7 +98,8 @@
 
 ## 🏆 成就
 
-- 🔍 **代码审计** — <审计项目>（CVE 已提交，待披露 🕐）
+- 🔍 **代码审计** — [TKar0-CvePoc](https://github.com/TKar0/TKar0-CvePoc)（CVE 已提交，待披露 🕐）
+- 🐛 **漏洞报告** — [go-wind-cms](https://github.com/tx7do/go-wind-cms) Missing Authorization（CWE-862）
 
 ---
 
