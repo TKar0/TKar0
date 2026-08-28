@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31545377/README.md)[README.md](https://github.com/user-attachments/files/31545376/README.md)
+[README.md](https://github.com/user-attachments/files/31545377/README.md)
 <!--
   ═══════════════════════════════════════════════════════════
   GitHub Profile README — TKar0
