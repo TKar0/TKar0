@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # 每天 UTC 0 点自动更新（北京时间早上 8 点）
+    - cron: "0 0 * * *"
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # 生成贪吃蛇 SVG（亮/暗两套，和 README 里的 picture 标签对应）
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: TKar0
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+
+      # 推送到 output 分支
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
