@@ -20,7 +20,7 @@
 </pre>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/TKar0/TKar0/upload/main/terminal.svg" width="700" alt="tkar0 terminal" />
+<img src="https://github.com/TKar0/TKar0/blob/main/upload/main/terminal.svg" width="700" alt="tkar0 terminal" />
 </p>
 
 ---
