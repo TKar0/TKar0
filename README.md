@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31545575/README.md)
+[README.md](https://github.com/user-attachments/files/31546228/README.md)
 <!--
   ═══════════════════════════════════════════════════════════
   GitHub Profile README — TKar0
@@ -68,14 +68,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TKar0&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=TKar0&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=stars" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKar0&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" />
-
-<!-- 连续提交天数 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TKar0&theme=radical&hide_border=true" height="180" />
-
-<!-- 奖杯展示 -->
-<img src="https://github-profile-trophy.vercel.app/?username=TKar0&theme=radical&no-frame=true&row=2&column=4" alt="trophy" />
 
 </div>
 
