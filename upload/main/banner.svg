@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="150" viewBox="0 0 700 150">
+  <defs>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="700" height="150" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <g filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.30s" fill="freeze"/>
+    <rect x="46" y="35" width="16" height="16" rx="3" fill="#00e5ff"/>
+    <rect x="62" y="35" width="16" height="16" rx="3" fill="#00e5ff"/>
+    <rect x="78" y="35" width="16" height="16" rx="3" fill="#00e5ff"/>
+    <rect x="94" y="35" width="16" height="16" rx="3" fill="#00e5ff"/>
+    <rect x="110" y="35" width="16" height="16" rx="3" fill="#00e5ff"/>
+    <rect x="126" y="35" width="16" height="16" rx="3" fill="#00e5ff"/>
+    <rect x="78" y="51" width="16" height="16" rx="3" fill="#00e5ff"/>
+    <rect x="94" y="51" width="16" height="16" rx="3" fill="#00e5ff"/>
+    <rect x="78" y="67" width="16" height="16" rx="3" fill="#00e5ff"/>
+    <rect x="94" y="67" width="16" height="16" rx="3" fill="#00e5ff"/>
+    <rect x="78" y="83" width="16" height="16" rx="3" fill="#00e5ff"/>
+    <rect x="94" y="83" width="16" height="16" rx="3" fill="#00e5ff"/>
+    <rect x="78" y="99" width="16" height="16" rx="3" fill="#00e5ff"/>
+    <rect x="94" y="99" width="16" height="16" rx="3" fill="#00e5ff"/>
+  </g>
+  <g filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.75s" fill="freeze"/>
+    <rect x="174" y="35" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="190" y="35" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="238" y="35" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="254" y="35" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="174" y="51" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="190" y="51" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="222" y="51" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="238" y="51" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="174" y="67" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="190" y="67" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="206" y="67" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="222" y="67" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="174" y="83" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="190" y="83" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="222" y="83" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="238" y="83" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="174" y="99" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="190" y="99" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="238" y="99" width="16" height="16" rx="3" fill="#00ff9f"/>
+    <rect x="254" y="99" width="16" height="16" rx="3" fill="#00ff9f"/>
+  </g>
+  <g filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.20s" fill="freeze"/>
+    <rect x="318" y="35" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="334" y="35" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="350" y="35" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="366" y="35" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="302" y="51" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="318" y="51" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="366" y="51" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="382" y="51" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="302" y="67" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="318" y="67" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="334" y="67" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="350" y="67" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="366" y="67" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="382" y="67" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="302" y="83" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="318" y="83" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="366" y="83" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="382" y="83" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="302" y="99" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="318" y="99" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="366" y="99" width="16" height="16" rx="3" fill="#ffd54f"/>
+    <rect x="382" y="99" width="16" height="16" rx="3" fill="#ffd54f"/>
+  </g>
+  <g filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.65s" fill="freeze"/>
+    <rect x="430" y="35" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="446" y="35" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="462" y="35" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="478" y="35" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="494" y="35" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="430" y="51" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="446" y="51" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="494" y="51" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="510" y="51" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="430" y="67" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="446" y="67" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="478" y="67" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="494" y="67" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="430" y="83" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="446" y="83" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="478" y="83" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="494" y="83" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="430" y="99" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="446" y="99" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="478" y="99" width="16" height="16" rx="3" fill="#ff4ecd"/>
+    <rect x="494" y="99" width="16" height="16" rx="3" fill="#ff4ecd"/>
+  </g>
+  <g filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.10s" fill="freeze"/>
+    <rect x="574" y="35" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="590" y="35" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="606" y="35" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="622" y="35" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="558" y="51" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="574" y="51" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="622" y="51" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="638" y="51" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="558" y="67" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="574" y="67" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="622" y="67" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="638" y="67" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="558" y="83" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="574" y="83" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="622" y="83" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="638" y="83" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="574" y="99" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="590" y="99" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="606" y="99" width="16" height="16" rx="3" fill="#ff5252"/>
+    <rect x="622" y="99" width="16" height="16" rx="3" fill="#ff5252"/>
+  </g>
+  <rect x="662" y="99" width="10" height="14" rx="2" fill="#00e5ff">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
