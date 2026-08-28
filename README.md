@@ -17,7 +17,7 @@
 
 专注方向：
 
-`SQLi` `XSS` `SSRF` `RCE` `反序列化` `文件上传` `代码审计` `越权/IDOR`
+`WEB安全` `内网安全` `漏洞挖掘` `漏洞分析` `代码审计` `CTFWEB出题`
 
 ---
 
@@ -25,7 +25,7 @@
 
 审计语言：`PHP` `Java` `Python` `Go` `JavaScript` `SQL`
 
-渗透工具：`Burp Suite` `Nmap` `sqlmap` `Metasploit` `Kali` `Docker`
+渗透工具：`Burp Suite` `Nmap` `sqlmap` `Metasploit` `Kali` `Docker等`
 
 ---
 
