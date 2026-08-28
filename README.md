@@ -1,6 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31547283/README.md)
-<!-- TKar0 profile -->
-
 <p align="center">
 <img src="https://github.com/TKar0/TKar0/blob/main/upload/main/banner.svg" width="700" alt="TKar0 banner" />
 </p>
