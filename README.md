@@ -1,16 +1,12 @@
-[README.md](https://github.com/user-attachments/files/31546991/README.md)
+[README.md](https://github.com/user-attachments/files/31547283/README.md)
 <!-- TKar0 profile -->
 
-<pre align="center">
-██████  ██  ██   ████  █████   ████ 
-  ██    ██ ██  ██  ██  ██  ██ ██  ██
-  ██    ████   ██████  ██ ██  ██  ██
-  ██    ██ ██  ██  ██  ██ ██  ██  ██
-  ██    ██  ██ ██  ██  ██ ██   ████ 
-</pre>
+<p align="center">
+<img src="https://raw.githubusercontent.com/TKar0/TKar0/main/banner.svg" width="700" alt="TKar0 banner" />
+</p>
 
 <p align="center">
-<img src="https://github.com/TKar0/TKar0/blob/main/upload/main/terminal.svg" width="700" alt="tkar0 terminal" />
+<img src="https://raw.githubusercontent.com/TKar0/TKar0/main/terminal.svg" width="700" alt="tkar0 terminal" />
 </p>
 
 ---
@@ -48,13 +44,6 @@
 - [ ] 写一篇代码审计笔记
 
 ---
-
-## stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TKar0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKar0&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
-</p>
 
 ## snake
 
