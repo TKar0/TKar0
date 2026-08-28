@@ -29,22 +29,6 @@
 
 ---
 
-## 战绩
-
-- **TKar0-CvePoc** — 自挖 CVE 的 PoC（[仓库](https://github.com/TKar0/TKar0-CvePoc)，待披露 🕐）
-- **go-wind-cms** — Missing Authorization / CWE-862（[issue](https://github.com/tx7do/go-wind-cms)）
-- **CTF Web** — 主攻 SQLi / RCE / 反序列化方向
-
----
-
-## 计划
-
-- [ ] 把 CVE 披露出去
-- [ ] 复现一条 Java 反序列化利用链
-- [ ] 写一篇代码审计笔记
-
----
-
 ## snake
 
 <picture>
