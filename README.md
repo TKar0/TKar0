@@ -14,13 +14,13 @@
 
 专注方向：
 
-`WEB安全` `内网安全` `漏洞挖掘` `漏洞分析` `代码审计` `CTFWEB出题`
+`WEB安全` `内网安全` `漏洞挖掘` `漏洞分析` `代码审计` `CTFWEB`
 
 ---
 
 ## Arsenal
 
-审计语言：`PHP` `Java` `Python` `Go` `JavaScript` `SQL`
+审计语言：`PHP` `Java` `Python` `Go` `C`
 
 渗透工具：`Burp Suite` `Nmap` `sqlmap` `Metasploit` `Kali` `Docker等`
 
